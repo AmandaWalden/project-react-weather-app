@@ -45,4 +45,8 @@ color: rgb(33, 33, 33);
   position: relative;
   line-height: 1;
   top: -34px;
+  text-decoration: none;
+}
+.Weather .unit a {
+  text-decoration: none;
 }
